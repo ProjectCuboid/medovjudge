@@ -1,7 +1,7 @@
 # Me on Vjudge
 ![Me On Vjudge](https://vjudge.net/cube__)
 ![Status](https://img.shields.io/badge/solving-active-green)
-
+![NoAI](https://raw.githubusercontent.com/ProjectCuboid/medovjudge/refs/heads/main/assets/noai.svg)
 ## Medovjudge
 
 **Medovjudge** is a repository containing solutions for various problems. Each solution includes a `.cpp` source file and a compiled binary.
