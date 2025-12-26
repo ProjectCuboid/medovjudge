@@ -19,4 +19,5 @@
     ```
     make runall p="problemnum"
     ```
-### YES! NO AI!
+### NO AI!
+No AI was/will be used in generating the solutions.
