@@ -1,4 +1,4 @@
-![Me ON Vjudge](https://vjudge.net/cube__) ![status](https://img.shields.io/badge/solving-active-green)
+![Me On Vjudge](https://vjudge.net/cube__)         ![status](https://img.shields.io/badge/solving-active-green)
 
 Yep! **Medovjudge** is a repo for some problems' solutions.
 solutions are with .cpp file and a binary.
