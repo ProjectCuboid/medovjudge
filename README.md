@@ -1,5 +1,5 @@
 # ME DO VJUDGE
-![⭐](https://vjudge.net/cube__)
+![⭐](https://vjudge.net/user/cube__)
 ![Status](https://img.shields.io/badge/solving-active-green)
 ![NoAI](https://raw.githubusercontent.com/ProjectCuboid/medovjudge/refs/heads/main/assets/noai.svg)
 ## Medovjudge
